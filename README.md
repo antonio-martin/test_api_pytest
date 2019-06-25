@@ -28,6 +28,7 @@ deactivate
 
 ## Project structure
 | Folder | Description |
+| --- | --- |
 | apis | All endpoints for each source separated by source file |
 | models | Python classes that match the different objects as Person, Species, etc |
 | tests | All tests are here |
